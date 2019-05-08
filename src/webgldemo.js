@@ -1,1 +1,1 @@
-alert(88)
+console.log("webgl")
